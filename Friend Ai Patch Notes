@@ -25,7 +25,7 @@ Added Greeting message upon opening app
 v1.06 Patch Notes - 
 Tried to add full memory but didn't work
 Fixed Bugs regarding Listview not being able to scroll
-Added a TTS if app detects the Input Box empty while User is trying to send
+Added a TTS if app detects the Input Box empty while User is trying to send empty messages
 Removed TTS for main chatting 
 Reverted UI back to original
 v1.07 Patch Notes - 
