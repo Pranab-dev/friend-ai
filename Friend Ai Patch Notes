@@ -3,10 +3,10 @@ v1.01 Patch notes -
 Basic UI
 Default ai model of MIT App Inventor
 Messages shown through labels
+Added You: and Friend: (so that people can know who's messages are coming) 
 v1.02 Patch notes -
 Fixed some bugs
-Added mic for enchanced chatting
-Added You: and Friend: (so that people can know who's messages are coming) 
+Added mic for enchanced chatting 
 v1.03 Patch notes - 
 Added Greeting message upon opening app
 Messages now shown using Listview
