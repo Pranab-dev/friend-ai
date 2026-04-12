@@ -8,6 +8,7 @@ Fixed some bugs
 Added mic for enchanced chatting
 Added You: and Friend: (so that people can know who's messages are coming) 
 v1.03 Patch notes - 
+Added Greeting message upon opening app
 Messages now shown using Listview
 Added Code-Mode (Due to Memory leak sometimes)
 Added Memory through TinyDb (Even if app closes and reopens chats will still be present)
@@ -20,7 +21,7 @@ Fixed Major Bugs
 v1.05 Patch notes - 
 Added About App Section
 Revamped UI
-Added Greeting message upon opening app
+Fixed Bugs
 v1.06 Patch Notes - 
 Tried to add full memory but didn't work
 Fixed Bugs regarding Listview not being able to scroll
