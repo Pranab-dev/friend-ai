@@ -8,16 +8,16 @@ Fixed some bugs
 Added mic for enchanced chatting
 Added You: and Friend: (so that people can know who's messages are coming) 
 v1.03 Patch notes - 
+Messages now shown using Listview
 Added Code-Mode (Due to Memory leak sometimes)
 Added Memory through TinyDb (Even if app closes and reopens chats will still be present)
-Added TTS (Text-To-Speech) 
-v1.04 Patch notes - 
-Removed Code-Mode (Because I updated the ai model which prevent anymore memory leaks
+Added TTS (Text-To-Speech)
 Added Clear Chat button (So chat can be cleared if anyone wants)
+v1.04 Patch notes - 
+Fixed Clear Chat not working
+Removed Code-Mode (Because I updated the ai model which prevents code leaking into chats) 
 Fixed Major Bugs
 v1.05 Patch notes - 
-Remove messages shown using Labels
-Added Listview for showing messages
 Added About App Section
 Revamped UI
 Added Greeting message upon opening app
