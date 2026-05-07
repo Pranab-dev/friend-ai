@@ -2,6 +2,18 @@ Friend AI 🤖
 
 Your Personal Ai Companion App
 
+🎯 Why I Built Friend AI
+
+Friend AI started as an experiment to create a lightweight AI companion app using MIT App Inventor while learning app development and AI interaction systems.
+
+🧠 How Friend AI Works
+
+1. User sends message
+2. Message processed through AI model
+3. Response added to chat UI
+4. Chats stored locally using TinyDB
+5. Chat restored after reopening app
+
 ✨ Features
 
 - AI chatbot system
@@ -46,7 +58,13 @@ v1.01 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.01/Friend_
 
 - ListView-based chat system
 - Limited text formatting support
-- Experimental memory systems
+- Experimental memory systems.
+
+⚠️ Known Issues
+
+- Long AI responses may be limited by ListView rendering
+- Memory system is still experimental
+- Some UI elements are being redesigned
 
 🚀 Roadmap
 
