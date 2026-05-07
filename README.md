@@ -14,7 +14,7 @@ Your Personal Ai Companion App
 
 📥 Downloads
 
-Version | Download
+Version | Download 
 v1.07 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.07/FRIEND_AI.apk)
 
 v1.06 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.06/FRIEND_AI.apk)
