@@ -25,6 +25,12 @@ v1.01| (https://github.com/Pranab-dev/friend-ai/releases/download/v1.01/Friend_A
 
 📱 Screenshots
 
+## Main Chat Screen
+![Main Chat](screenshots/chat.jpg)
+
+## About Screen
+![About](screenshots/about.jpg)
+
 🧰 Built With
 
 - MIT App Inventor
