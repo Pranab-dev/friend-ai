@@ -14,14 +14,20 @@ Your Personal Ai Companion App
 
 📥 Downloads
 
-Version| Download
-v1.07| (https://github.com/Pranab-dev/friend-ai/releases/download/v1.07/FRIEND_AI.apk)
-v1.06| (https://github.com/Pranab-dev/friend-ai/releases/download/v1.06/FRIEND_AI.apk)
-v1.05| (https://github.com/Pranab-dev/friend-ai/releases/download/v1.05/FRIEND_AI.apk)
-v1.04| (https://github.com/Pranab-dev/friend-ai/releases/download/v1.04/Friend_Ai.apk)
-v1.03| (https://github.com/Pranab-dev/friend-ai/releases/download/v1.03/Friend_Ai.apk)
-v1.02| (https://github.com/Pranab-dev/friend-ai/releases/download/v1.02/Friend_Ai.apk)
-v1.01| (https://github.com/Pranab-dev/friend-ai/releases/download/v1.01/Friend_Ai.apk)
+Version | Download
+v1.07 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.07/FRIEND_AI.apk)
+
+v1.06 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.06/FRIEND_AI.apk)
+
+v1.05 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.05/FRIEND_AI.apk)
+
+v1.04 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.04/Friend_Ai.apk)
+
+v1.03 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.03/Friend_Ai.apk)
+
+v1.02 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.02/Friend_Ai.apk)
+
+v1.01 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.01/Friend_Ai.apk)
 
 📱 Screenshots
 
