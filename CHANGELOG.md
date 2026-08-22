@@ -1,5 +1,25 @@
 Friend AI — Changelog
 
+v1.08
+
+Added
+
+- Friend now has its own identity and instructions
+- Error handling
+- If a request has already been sent you can't send another one till the current one is processed
+
+Changed
+
+- Friend now uses Gemini 3.5 flash and has information upto January 2025
+
+Fixed
+
+- Messages getting cut off in ListView
+
+Removed
+
+- Removed TTS entirely from the app
+
 v1.07
 
 Added
