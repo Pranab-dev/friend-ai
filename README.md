@@ -25,6 +25,8 @@ Friend Ai started as an experiment to create a lightweight Ai companion app usin
 
 📥 Downloads
 
+v1.08 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.08/FRIEND_AI.apk)
+
 v1.07 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.07/FRIEND_AI.apk)
 
 v1.06 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.06/FRIEND_AI.apk)
