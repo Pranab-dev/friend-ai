@@ -1,12 +1,12 @@
-Friend Ai 
+Friend
 
 Your Personal Ai Companion App
 
-Why I Built Friend Ai❓
+Why I Built Friend❓
 
 Friend Ai started as an experiment to create a lightweight Ai companion app using MIT App Inventor while learning app development and Ai interaction systems.
 
-🧠 How Friend Ai Works
+🧠 How Friend Works
 
 1. User sends message
 2. Message processed through Ai model
@@ -53,17 +53,17 @@ v1.01 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.01/Friend_
 
 - MIT App Inventor
 - Android
-- ChatBot component/API
+- Gemini API
   
 🚧 Current Limitations
 
+- Free API plan limits
 - Limited tools in MIT App Inventor
 - Experimental memory systems.
 
 ⚠️ Known Issues
 
-- Long Ai responses may be limited by ListView rendering
-- Ai sometimes freezes causing no reply
+- Currently None (as of v1.08 in my testing, but if you find any make sure to post an issue or pull request)
 
 🚀 Roadmap
 
@@ -84,4 +84,4 @@ Currently in active development.
 
 Latest stable version:
 
-«v1.07»
+«v1.08»
