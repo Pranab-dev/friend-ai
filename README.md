@@ -44,10 +44,10 @@ v1.01 | (https://github.com/Pranab-dev/friend-ai/releases/download/v1.01/Friend_
 📱 Screenshots
 
 ## Main Chat Screen
-![Main Chat](screenshots/chat.jpg)
+![Main Chat](screenshots/cha.jpg)
 
 ## About Screen
-![About](screenshots/about.jpg)
+![About](screenshots/abut.jpg)
 
 🧰 Built With
 
