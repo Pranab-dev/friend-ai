@@ -4,7 +4,7 @@ Your Personal Ai Companion App
 
 Why I Built Friend❓
 
-Friend Ai started as an experiment to create a lightweight Ai companion app using MIT App Inventor while learning app development and Ai interaction systems.
+Friend started as an experiment to create a lightweight Ai companion app using MIT App Inventor while learning app development and Ai interaction systems.
 
 🧠 How Friend Works
 
